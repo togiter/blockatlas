@@ -183,7 +183,8 @@ zelcash:
   api: https://blockbook.zel.network/api
 
 viacoin:
-  api: https://blockbook.viacoin.org/api
+  #mock api: https://blockbook.viacoin.org/api
+  api: http://localhost:3000/viacoin-api
 
 qtum:
   api: https://blockv3.qtum.info/api
