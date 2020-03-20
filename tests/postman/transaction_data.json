@@ -242,7 +242,7 @@
     {
         "handler": "viacoin",
         "address": "address/VdMPvn7vUTSzbYjiMDs1jku9wAh1Ri2Y1A",
-        "expectedTxId": "45f94473bf1bfda2c47cea9c38238ce86821c3ac301500a281ff45de1772b32c"
+        "expectedTxId": "dadbe1f13dc5ecd1cfb0d8ae139a4e55493eb9ab2c937cb78b67a5d9c1ded7e8"
     },
     {
         "handler": "viacoin",
