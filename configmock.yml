@@ -177,7 +177,8 @@ zcoin:
   api: https://blockbook.zcoin.io/api
 
 zcash:
-  api: https://zec1.trezor.io/api
+  #mock api: https://zec1.trezor.io/api
+  api: http://localhost:3000/zcash-api
 
 zelcash:
   api: https://blockbook.zel.network/api

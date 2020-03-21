@@ -202,7 +202,7 @@
     {
         "handler": "zcash",
         "address": "address/t1LwLWo1Mo3s4RPtUpeyUD1eYd47inL3bwX",
-        "expectedTxId": "415888d61d605843fa4e846a84350c46703d6dd75446573770959d3eed71233d"
+        "expectedTxId": "d504755667e0fb61543e16d09aff5f84733f500190a07acb4a6784b4dc4c99e7"
     },
     {
         "handler": "zcash",
