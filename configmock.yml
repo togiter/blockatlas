@@ -130,7 +130,8 @@ ontology:
 
 # [ZIL] Zilliqa: https://zilliqa.com
 zilliqa:
-  api: https://api.viewblock.io/v1/zilliqa
+  #mock api: https://api.viewblock.io/v1/zilliqa
+  api: http://localhost:3000/zilliqa-api
   # key: YOUR_API_KEY
   rpc: https://api.zilliqa.com
   #mock lookup: https://unstoppabledomains.com/api/v1
