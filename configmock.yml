@@ -78,8 +78,9 @@ classic:
   api: http://localhost:3000/ethclassic-api
 
 # [POA] POA Network: https://poa.network (Trust-Ray API)
-# poa:
-#   api: https://localhost:4567
+poa:
+  #mock api: https://localhost:4567
+  api: http://localhost:3000/poa-api
 
 # [CLO] Callisto Network: https://callisto.network (Trust-Ray API)
 # callisto:

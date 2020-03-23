@@ -1,4 +1,4 @@
-/// <coin> RPC Mock
+/// Ethereum API Mock
 /// See:
 /// curl "http://localhost:3000/eth-api/transactions?address=0x0875BCab22dE3d02402bc38aEe4104e1239374a7"
 /// curl "https://trust-wallet.herokuapp.com/transactions?address=0x0875BCab22dE3d02402bc38aEe4104e1239374a7"
