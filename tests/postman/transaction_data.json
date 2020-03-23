@@ -25,6 +25,7 @@
     {
         "handler": "kava",
         "address": "kava1l8va9zyl50cpzv447c694k3jndelc9ygtfll2m",
+        "expectedTxNum": 2,
         "expectedTxId": "30EFE9E830D317F84629F9DC35177577DF6713D78D354C2C469DE633900303BC"
     },
     {
@@ -109,6 +110,7 @@
     {
         "handler": "cosmos",
         "address": "cosmos1dx27g0kzhwej0ekcf2k9hsktcxnmpl7fcehcvq",
+        "expectedTxNum": 2,
         "expectedTxId": "93E43518BAE4BC137605BBB7FD5D31FDAE6427ECE57EC299C43CE786FDAEBC63"
     },
     {

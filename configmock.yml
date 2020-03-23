@@ -128,7 +128,8 @@ theta:
 
 # [ATOM] Cosmos: https://cosmos.network/
 cosmos:
-  api: https://api.cosmos.network
+  #mock api: https://api.cosmos.network
+  api: http://localhost:3000/cosmos-api
 
 # [ONTOLOGY] ONT: https://ont.io/
 ontology:
@@ -222,7 +223,8 @@ harmony:
   api: http://localhost:3000/harmony-api
 
 kava:
-  api: https://data.kava.io
+  #mock api: https://data.kava.io
+  api: http://localhost:3000/kava-api
 
 kusama:
   api: https://kusama.subscan.io/api
