@@ -60,7 +60,8 @@
     {
         "handler": "thundertoken",
         "address": "0x0b230def08139f18a86536d9cfa150f04435414c",
-        "expectedTxId": ""
+        "expectedTxNum": 2,
+        "expectedTxId": "0x80929a2170969364e06d253d2b853fe0b2ca3a307e61d629946b9b76e2f983cf"
     },
     {
         "handler": "callisto",

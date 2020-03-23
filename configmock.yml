@@ -102,8 +102,9 @@ tomochain:
   api: http://localhost:3000/tomochain-api
 
 # [TT] ThunderCore: https://www.thundercore.com (Trust-Ray API)
-# thundertoken:
-#   api: https://localhost:4567
+thundertoken:
+  #mock api: https://localhost:4567
+  api: http://localhost:3000/thundertoken-api
 
 # [AION] Aion: https://aion.network
 aion:
