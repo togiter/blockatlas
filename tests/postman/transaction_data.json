@@ -79,6 +79,7 @@
     {
         "handler": "theta",
         "address": "0xac0eeb6ee3e32e2c74e14ac74155063e4f4f981f",
+        "expectedTxNum": 2,
         "expectedTxId": "0x85aaf834470dd858dc2f60c7bd535ddf08c3fcfef9456f43676462950a355b78"
     },
     {

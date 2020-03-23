@@ -124,7 +124,8 @@ vechain:
 
 # [THETA] THETA: https://www.thetatoken.org/
 theta:
-  api: https://explorer.thetatoken.org:9000/api
+  #mock api: https://explorer.thetatoken.org:9000/api
+  api: http://localhost:3000/theta-api
 
 # [ATOM] Cosmos: https://cosmos.network/
 cosmos:
