@@ -15,14 +15,14 @@ module.exports = {
                 {
                     "page": 1,
                     "totalPages": 1,
-                    "itemsOnPage": 2,
+                    "itemsOnPage": 1,
                     "address": "zpub6qVn6ubhK9tfepuABqy8wBXXn3qUZTbpqyNBqLyqakqTrZZD9rXZ3L5MZ945g8Mu7vmMSbC7vfLtLatTgxAnVJ8ECCtwmKqCo6TJm2ZsFJK",
                     "balance": "741749040",
                     "totalReceived": "57216749588",
                     "totalSent": "56475000548",
                     "unconfirmedBalance": "0",
                     "unconfirmedTxs": 0,
-                    "txs": 39,
+                    "txs": 1,
                     "transactions": [
                         {
                             "txid": "bdff404da14940abd84f7cb741fe8f77ad5de5aefbb74254caee683fe2a9b540",
