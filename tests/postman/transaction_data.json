@@ -71,7 +71,8 @@
     {
         "handler": "gochain",
         "address": "0xEd7F2e81B0264177e0df8f275f97Fd74Fa51A896",
-        "expectedTxId": ""
+        "expectedTxNum": 2,
+        "expectedTxId": "0x2637d7b0e7f66134e983e6af921700718b8a49885a9215ee8033ac384d5d1be7"
     },
     {
         "handler": "theta",

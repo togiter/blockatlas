@@ -88,8 +88,9 @@ callisto:
   api: http://localhost:3000/callisto-api
 
 # [GO] GoChain: https://gochain.io (Trust-Ray API)
-# gochain:
-#   api: https://localhost:4567
+gochain:
+  #mock api: https://localhost:4567
+  api: http://localhost:3000/gochain-api
 
 # [WAN] Wanchain: https://wanchain.org (Trust-Ray API)
 # wanchain:
