@@ -73,8 +73,9 @@ ethereum:
   rpc: http://localhost:3000/eth-rpc
 
 # [ETC] Ethereum Classic: https://ethereumclassic.org (Trust-Ray API)
-# classic:
-#   api: https://localhost:4567
+classic:
+  #mock api: https://localhost:4567
+  api: http://localhost:3000/ethclassic-api
 
 # [POA] POA Network: https://poa.network (Trust-Ray API)
 # poa:
