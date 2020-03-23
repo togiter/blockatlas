@@ -22,7 +22,7 @@ module.exports = {
                     "totalSent": "56475000548",
                     "unconfirmedBalance": "0",
                     "unconfirmedTxs": 0,
-                    "txs": 1,
+                    "txs": 39,
                     "transactions": [
                         {
                             "txid": "bdff404da14940abd84f7cb741fe8f77ad5de5aefbb74254caee683fe2a9b540",
