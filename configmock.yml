@@ -83,8 +83,9 @@ poa:
   api: http://localhost:3000/poa-api
 
 # [CLO] Callisto Network: https://callisto.network (Trust-Ray API)
-# callisto:
-#   api: https://localhost:4567
+callisto:
+  #mock api: https://localhost:4567
+  api: http://localhost:3000/callisto-api
 
 # [GO] GoChain: https://gochain.io (Trust-Ray API)
 # gochain:

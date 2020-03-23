@@ -57,7 +57,7 @@
     {
         "handler": "callisto",
         "address": "0x3083a7ec44ca2b038d4be4b0798152f948f0f3d7",
-        "expectedTxId": ""
+        "expectedTxId": "0x4052f55ee615a783abaa22a62100a45d2eee27ecab3a599e9d6691371336463e"
     },
     {
         "handler": "gochain",
