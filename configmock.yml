@@ -96,8 +96,9 @@ callisto:
 #   api: https://localhost:4567
 
 # [TOMO] TomoChain: https://tomochain.com (Trust-Ray API)
-# tomochain:
-#   api: https://localhost:4567
+tomochain:
+  #mock api: https://localhost:4567
+  api: http://localhost:3000/tomochain-api
 
 # [TT] ThunderCore: https://www.thundercore.com (Trust-Ray API)
 # thundertoken:

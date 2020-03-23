@@ -36,7 +36,8 @@
     {
         "handler": "tomochain",
         "address": "0x17e4c16605e32adead5fa371bf6117df34ca0200",
-        "expectedTxId": ""
+        "expectedTxNum": 2,
+        "expectedTxId": "0xb2af5ad5eebaba1da3452e0281f9b6ec9e00a5bb832793a912eb3959b6c2fdd2"
     },
     {
         "handler": "ethereum",
